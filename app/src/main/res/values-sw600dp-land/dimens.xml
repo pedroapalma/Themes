@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="app_bar_height">250dp</dimen>
+    <dimen name="banner_height">140dp</dimen>
+</resources>

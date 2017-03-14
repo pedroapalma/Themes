@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Themes</string>
+    <string name="connection_error">Connection error</string>
+    <string name="server_error">Server error</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="desc">desc</string>
+    <string name="no_themes_to_show">No themes to show</string>
+    <string name="retry_uc">RETRY</string>
+    <string name="subscribers">subscribers</string>
+    <string name="bullet">•</string>
+    <string name="about_this_community">About this community</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="not_found">Not found</string>
+
+    <array name="swipe_refresh_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAccent</item>
+        <item>@color/colorPrimaryDark</item>
+    </array>
+</resources>
